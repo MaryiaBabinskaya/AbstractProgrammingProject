@@ -1,0 +1,3 @@
+D:/C++/enviroment/cmake-build-debug/CMakeFiles/enviroment.dir
+D:/C++/enviroment/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++/enviroment/cmake-build-debug/CMakeFiles/rebuild_cache.dir

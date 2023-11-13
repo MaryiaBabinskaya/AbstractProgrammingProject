@@ -1,0 +1,1 @@
+/usr/bin/clang++   -Wall -Wbuiltin-macro-redefined -pedantic -Werror   CMakeFiles/enviroment.dir/boost.cpp.o  -o enviroment /usr/local/lib/libboost_filesystem.a /usr/local/lib/libboost_atomic.a 

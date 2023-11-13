@@ -1,0 +1,11 @@
+"C:\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/CLion 2022.2.4/bin/ninja/win/ninja.exe" -G Ninja -S D:\C++\enviroment -B D:\C++\enviroment\cmake-build-debug
+CMake Error at C:/CLion 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/FindPackageHandleStandardArgs.cmake:230 (message):
+  Could NOT find Boost (missing: Boost_INCLUDE_DIR filesystem)
+Call Stack (most recent call first):
+  C:/CLion 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/FindPackageHandleStandardArgs.cmake:594 (_FPHSA_FAILURE_MESSAGE)
+  C:/CLion 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/FindBoost.cmake:2376 (find_package_handle_standard_args)
+  CMakeLists.txt:28 (find_package)
+
+
+-- Configuring incomplete, errors occurred!
+See also "D:/C++/enviroment/cmake-build-debug/CMakeFiles/CMakeOutput.log".
